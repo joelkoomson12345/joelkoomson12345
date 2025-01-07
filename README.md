@@ -36,4 +36,4 @@ I'm an aspiring software developer and Ambassador at Georgia State University; e
 #
 
 
-<img align="left" alt="Lockedin" width="1000px"  src= "https://github.com/user-attachments/assets/eee3d7de-365f-4a05-ac5d-99c22488e609" style="padding-right:150px;" />
+<img align="left" alt="Lockedin" width="1000px"  src= "https://github.com/user-attachments/assets/e04a3059-1580-4cde-9520-56b30fdcd76e" style="padding-right:150px;" />
